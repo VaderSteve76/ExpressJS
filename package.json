@@ -21,6 +21,8 @@
   "homepage": "https://github.com/VaderSteve76/ExpressJS#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "nodemon": "^1.19.2"
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.2",
+    "uuid": "^3.3.3"
   }
 }
